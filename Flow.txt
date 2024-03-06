@@ -1,3 +1,7 @@
 Initial text
 Flow is good
+<<<<<<< HEAD
 Hotfixed
+=======
+In develop
+>>>>>>> 90ff6a794210c7ed3a689883ebd7b7901211132c
